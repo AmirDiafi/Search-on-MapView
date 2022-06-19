@@ -15,6 +15,7 @@
 		044275A6285E501A0029EDDE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 044275A4285E501A0029EDDE /* LaunchScreen.storyboard */; };
 		04CE8667285F2D8000A37FB0 /* SecondMapViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CE8666285F2D8000A37FB0 /* SecondMapViewController.swift */; };
 		04CE866E285F5B6E00A37FB0 /* SearchLocationViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04CE866D285F5B6E00A37FB0 /* SearchLocationViewController.swift */; };
+		04E78804285F858000F9C40B /* CenterPinViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04E78803285F858000F9C40B /* CenterPinViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		044275A7285E501A0029EDDE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		04CE8666285F2D8000A37FB0 /* SecondMapViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondMapViewController.swift; sourceTree = "<group>"; };
 		04CE866D285F5B6E00A37FB0 /* SearchLocationViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchLocationViewController.swift; sourceTree = "<group>"; };
+		04E78803285F858000F9C40B /* CenterPinViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CenterPinViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				044275A7285E501A0029EDDE /* Info.plist */,
 				04CE8666285F2D8000A37FB0 /* SecondMapViewController.swift */,
 				04CE866D285F5B6E00A37FB0 /* SearchLocationViewController.swift */,
+				04E78803285F858000F9C40B /* CenterPinViewController.swift */,
 			);
 			path = "My Map";
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 				0442759E285E50120029EDDE /* ViewController.swift in Sources */,
 				04CE8667285F2D8000A37FB0 /* SecondMapViewController.swift in Sources */,
 				04CE866E285F5B6E00A37FB0 /* SearchLocationViewController.swift in Sources */,
+				04E78804285F858000F9C40B /* CenterPinViewController.swift in Sources */,
 				0442759A285E50120029EDDE /* AppDelegate.swift in Sources */,
 				0442759C285E50120029EDDE /* SceneDelegate.swift in Sources */,
 			);
